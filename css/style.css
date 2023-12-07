@@ -38,7 +38,7 @@ button {
 }
 
 .header {
-	background-image: url('/images/header-bg.jpg');
+	background-image: url('../images/header-bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -99,7 +99,7 @@ button {
 .tele-btn span::after {
 	content: '';
 	position: absolute;
-	background-image: url('/images/telegram.svg');
+	background-image: url('../images/telegram.svg');
 	width: 21px;
 	height: 19px;
 	right: 41px;
@@ -139,7 +139,7 @@ button {
 }
 
 .subjects {
-	background-image: url('/images/subjects-bg.jpg');
+	background-image: url('../images/subjects-bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -160,7 +160,7 @@ button {
 }
 
 .how {
-	background-image: url('/images/how-bg.jpg');
+	background-image: url('../images/how-bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -205,7 +205,7 @@ button {
 	position: absolute;
 	width: 101px;
 	height: 101px;
-	background-image: url('/images/how-decor.svg');
+	background-image: url('../images/how-decor.svg');
 	background-repeat: no-repeat;
 	right: 94px;
 	top: -29px;
@@ -254,7 +254,7 @@ button {
 }
 
 .questions {
-	background-image: url('/images/questions-bg.jpg');
+	background-image: url('../images/questions-bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
