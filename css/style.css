@@ -327,6 +327,11 @@ button {
 	background-color: #061223;
 }
 
+.dodiks__images img{
+	max-width: 60%;
+	object-fit: cover;
+}
+
 .dodiks__images:first-child {
 	width: 100%;
 }
